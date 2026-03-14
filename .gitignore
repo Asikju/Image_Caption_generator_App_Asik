@@ -8,3 +8,6 @@ __pycache__/
 # virtual environments
 
 env311/
+
+#model -- as it is large and can't be uploaded to GitHub
+
